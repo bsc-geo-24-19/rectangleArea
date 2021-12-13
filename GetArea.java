@@ -1,1 +1,4 @@
-import  java.util*
+import  java.util.*
+class GetArea{
+    private 
+}
